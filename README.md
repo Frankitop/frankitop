@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
-<h3 align="center">A student of Systems Engineering at the ORT University of Uruguay. Currently, I work at an energy distribution company and I have experience in programming with C++, C#, JavaScript, SQL, MongoDB, CSS and HTML. My GitHub profile is a showcase of my projects and skills in software development</h3>
+<h3 align="center">A Systems Engineering student at ORT University of Uruguay, I have expertise in various programming languages including C++, C#, JavaScript, SQL, MongoDB, CSS, HTML, among others. I am currently working as an Operations Management Specialist at an Energy Distribution company. My GitHub profile showcases my software development projects and skills.</h3>
 
 - 📫 How to reach me **fpiriz88@gmail.com**
 
