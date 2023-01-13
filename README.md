@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Franco</h1>
+<h2 align="left">Hi 👋, I'm Franco</h2>
 <img align='right' src="https://blush.design/api/download?shareUri=36J5vcu5JBmofAhT&c=Skin_0%7Ed08b5b&w=800&h=800&fm=png" width="150">
-<h3 align="justify">A Systems Engineering student at ORT University of Uruguay, I have expertise in various programming languages including C++, C#, JavaScript, SQL, MongoDB, CSS, HTML, among others. I am currently working as an Operations Management Specialist at an Energy Distribution company. My GitHub profile showcases my software development projects and skills.</h3>
+<p align="justify">A Systems Engineering student at ORT University of Uruguay, I have expertise in various programming languages including C++, C#, JavaScript, SQL, MongoDB, CSS, HTML, among others. I am currently working as an Operations Management Specialist at an Energy Distribution company. My GitHub profile showcases my software development projects and skills.</p>
 
 - 📫 How to reach me **fpiriz88@gmail.com**
 
